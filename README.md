@@ -1,14 +1,14 @@
 # Webscraping Projects
 
-This repository serves as a showcase of my Webscarping skills using python.
+This repository serves as a showcase of my web scraping skills using python.
 
-## Disney Webscrape Project:
+## Disney Web Scrape Project:
 
 **Code**: [Disney_Film_Web_Scrape.ipynb](https://github.com/swb1113/Webscraping_projects/blob/main/Disney_Film_Web_Scrape.ipynb)  
 **Dataset (JSON)**: [disney_movie_data_final.json](https://github.com/swb1113/Webscraping_projects/blob/main/disney_movie_data_final.json)  
 **Dataset (CSV)**: [disney_movie_data_final.csv](https://github.com/swb1113/Webscraping_projects/blob/main/disney_movie_data_final.csv)  
 
-**Description**: Utilized the Beautiful soup library and wrote python functions to webscrape over 500 disney film Wikipedia pages.
+**Description**: Utilized the Beautiful soup library and wrote python functions to web scrape over 500 disney film Wikipedia pages.
 Used the OMDb api to attatch IMDB/Metascore/Rotten Tomato scores to the data. 
 Cleaned the data and saved it as a JSON and CSV file.  
 **Skills**: Python coding, data cleaning, web scraping, API.  
